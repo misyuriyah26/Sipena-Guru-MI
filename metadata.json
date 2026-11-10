@@ -1,0 +1,6 @@
+{
+  "name": "SIPENA MI PERSONAL",
+  "description": "Sistem Informasi Perangkat Ajar Madrasah Ibtidaiyah - Aplikasi personal guru MI untuk penyusunan, pengelolaan, dan pengunduhan perangkat ajar Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
